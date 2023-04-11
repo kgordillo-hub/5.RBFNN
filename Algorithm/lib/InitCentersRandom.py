@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from keras.initializers.initializers_v2 import Initializer
+from keras.initializers.initializers import Initializer
 
 
 class InitCentersRandom(Initializer):

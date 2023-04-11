@@ -1,5 +1,5 @@
 from keras import backend as K
-from keras.initializers.initializers_v2 import RandomUniform, Constant
+from keras.initializers.initializers import RandomUniform, Constant
 from keras.layers import Layer
 
 
